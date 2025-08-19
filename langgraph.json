@@ -1,0 +1,11 @@
+{
+  "runtime": "python",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "multi_agent_final": "./multi_agent_langsmith.py:graph"
+  },
+  "env": ".env"
+}
